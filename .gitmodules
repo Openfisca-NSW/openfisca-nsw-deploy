@@ -13,6 +13,3 @@
 [submodule "openfisca_nsw_rules_kids_vouchers"]
 	path = openfisca_nsw_rules_kids_vouchers
 	url = https://github.com/Openfisca-NSW/openfisca_nsw_rules_kids_vouchers.git
-[submodule "nsw_covid_rules"]
-	path = nsw_covid_rules
-	url = https://github.com/Openfisca-NSW/nsw_covid_rules.git
